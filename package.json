@@ -1,0 +1,28 @@
+{
+  "name": "vuip-cli",
+  "version": "1.0.0",
+  "description": "wuip cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vuip": "bin/vuip.js"
+  },
+  "url": "https://github.com/ay233/ftmay",
+  "email": "343049347@qq.com",
+  "author": {
+    "name": "hq.huang",
+    "email": "343049347@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ay233/ftmay.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0"
+  }
+}
