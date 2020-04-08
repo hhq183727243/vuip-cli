@@ -1,6 +1,6 @@
 {
   "name": "vuip-cli",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "vuip-cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,6 +8,11 @@
   "bin": {
     "vuip": "bin/vuip.js"
   },
+  "keywords": [
+    "vuip",
+    "vuip-cli",
+    "cli"
+  ],
   "url": "https://github.com/hhq183727243/vuip-cli",
   "email": "343049347@qq.com",
   "author": {
@@ -24,5 +29,8 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.19.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
   }
 }
